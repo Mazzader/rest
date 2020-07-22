@@ -1,3 +1,4 @@
 # Project exclude paths
 /venv/
 .idea
+db_prod_env
